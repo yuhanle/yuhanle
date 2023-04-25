@@ -5,7 +5,7 @@
 A iOS developer🎯 from China.
 - 🌱 I’m currently learning iOS, Nodejs and Go.
 - 📫 How to reach me: You may follow me on [Zhihu](https://www.zhihu.com/people/yuhanle) or [yuhanle.com](https://www.yuhanle.com/)
-- 📝 [Resume](http://www.yuhanle.com/resume/)
+- 📝 [Resume](https://yuhanle.github.io/resume/)
 
 **Languages:**  
 
