@@ -7,6 +7,12 @@ A iOS developer🎯 from China.
 - 📫 How to reach me: You may follow me on [Zhihu](https://www.zhihu.com/people/yuhanle) or [yuhanle.com](https://www.yuhanle.com/)
 - 📝 [Resume](https://yuhanle.github.io/resume/)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 **Languages:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
