@@ -7,16 +7,16 @@ A iOS developer🎯 from China.
 - 📫 How to reach me: You may follow me on [Zhihu](https://www.zhihu.com/people/yuhanle) or [yuhanle.com](https://www.yuhanle.com/)
 - 📝 [Resume](https://yuhanle.github.io/resume/)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 **Languages:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=yuhanle&show_icons=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuhanle/yuhanle/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuhanle/yuhanle/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuhanle/yuhanle/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
